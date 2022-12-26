@@ -4,15 +4,6 @@ Wei-Jen Ko, Greg Durrett and Junyi Jessy Li, "Domain Agnostic Real-Valued Specif
 
 This is a text specificity predictor for any domain. 
 
-**Citation:**
-```
-@InProceedings{ko2019domain,
-  author    = {Ko, Wei-Jen and Durrett, Greg and Li, Junyi Jessy},
-  title     = {Domain Agnostic Real-Valued Specificity Prediction},
-  booktitle = {AAAI},
-  year      = {2019},
-}
-```
 
 
 ## Dependencies
